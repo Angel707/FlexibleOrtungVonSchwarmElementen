@@ -1,9 +1,8 @@
 FlexibleOrtungVonSchwarmElementen
 =================================
 
-== GERMAN ==
-
 Flexible Ortung von Schwarmelementen im Innenraum auf Basis kostengünstiger Kameras
+-----------------------------------------------------------------------------------
 
 Die Schwarmforschung ist ein aktuelles Forschungsthema in der Robotik.
 Zur Unterstützung dieser Forschung wird ein kostengünstiges, flexibles und
@@ -41,9 +40,9 @@ der ortung hängt vom Winkel der Kamera und der Höhe des Schwarmelements ab.
 In Testreihen wurde eine Genauigkeit zwischen einem und drei Zentimetern
 ermittelt.
 
-== ENGLISH ==
 
-Flexible Indoor Locating of schwarm elements on the basis of low-cost cameras
+Flexible Indoor Locating of Schwarm Elements on the basis of low-cost Cameras
+-----------------------------------------------------------------------------
 
 Schwarm research is a current robotic research topic.
 In support of this research a cost-saving, flexible and separate locating
